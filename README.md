@@ -40,7 +40,7 @@ I'm always open to discussing new projects, technologies, or collaboration oppor
 
 -   **Email:** [bhavyansh2018@gmail.com](mailto:bhavyansh2018@gmail.com)
 -   **LinkedIn:** [linkedin.com/in/bhavyansh03](https://www.linkedin.com/in/bhavyansh03/)
--   **Portfolio:** [js-bhavyansh.netlify.app](https://js-bhavyansh.netlify.app/)
+-   **Portfolio:** [https://portfolio.xiver.in](https://portfolio.xiver.in/)
 
 ---
 
